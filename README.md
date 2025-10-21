@@ -1,5 +1,4 @@
 # People-Flow-Detection-using-Object-Tracking-Heatmap-Visualization
-# People Flow Detection
 
 💡 **Real-time people detection, tracking, counting, and heatmap visualization using YOLOv8 + BoT-SORT**
 
